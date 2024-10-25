@@ -3,7 +3,7 @@
 </script>
 
 <template>
-  <div class="greetings">
+  <div class="text-2xl">
     HI!
   </div>
 </template>
